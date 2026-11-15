@@ -1,0 +1,6 @@
+
+# LTspice simulation files
+*.raw
+*.log
+*.net
+*.fft
